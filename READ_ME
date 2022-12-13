@@ -26,7 +26,7 @@ EMAIL: TheWTFExperience@outlook.com
 
 *** HOW TO USE ***
 
-1. Download the SCRS.ps1 file to your desktop
+1. Download the SRCS.ps1 file to your desktop
 2. Right-click the file and select "RUN WITH POWERSHELL"
 3. If you get a prompt to change the execution policy, just select yes. (THIS IS NORMAL)
 4. Type in the state you want to query
