@@ -1,3 +1,31 @@
-fghjfghjfjhfhj
-fhgfghjfghjfghjfghj
-fghjfghjfhjfghjfhj
+DISCLAIMER: Under no circumstances are you to use this tool for ANY malicious purposes.
+                This is including but not limited to stalking, harassing, spamming, etc
+                I AM NOT RESPONSIBLE FOR HOW YOU USE THIS TOOL
+         
+
+
+***STATE REPRESENTATIVE CONTACT SYSTEM***
+______________________________________________________________
+AUTHOR: Whiskey Tango Foxtrot
+TWITTER: @whiskey21872240
+EMAIL: TheWTFExperience@outlook.com
+
+1. The purpose of this application is to allow you to email all of your state representives at once.
+       This includes House and Senate representatives.
+
+       Information gathered from this tool is parsed from https://services.statescape.com/
+       I collected the data, and created custom variables and delimitation strings in order to
+       make searching for your state representatives easier for you.
+       
+
+
+
+*** HOW TO USE ***
+
+1. Download the SCRS.ps1 file to your desktop
+2. Right-click the file and select "RUN WITH POWERSHELL"
+3. If you get a prompt to change the execution policy, just select yes. (THIS IS NORMAL)
+4. Type in the state you want to query
+5. Send your state reps an email
+
+Cheers!!
