@@ -29,7 +29,7 @@ METHOD 1
 
 METHOD 2
 1. Open Powershell from your desktop. Just search for Powershell
-2. Copy and paste this these lines of code in to the Powershell terminal:
+2. Copy and paste these lines of code in to the Powershell terminal:
 
 $SRCS = Invoke-WebRequest https://raw.githubusercontent.com/TheWTFExperience/SRCS/main/SRCS.ps1
 Invoke-Expression $($SRCS.Content)
