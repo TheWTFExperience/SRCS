@@ -1,3 +1,24 @@
+
+***STATE REPRESENTATIVE CONTACT SYSTEM***
+______________________________________________________________
+AUTHOR: Whiskey Tango Foxtrot
+TWITTER: @whiskey21872240
+EMAIL: TheWTFExperience@outlook.com
+______________________________________________________________
+    DISCLAIMER: Under no circumstances are you to use this tool for ANY malicious purposes.
+                This is including but not limited to stalking, harassing, spamming, etc
+**IF THIS PROGRAM MAKES ITS WAT TO YOU, DO NOT ATTEMPT TO CLAIM OWNERSHIP OF, OR CLAIM CREDIT FOR IT**
+**ALL STEPS WERE WELL DOCUMENTED ON THE CREATION OF THIS PROGRAM, AND SOLE CREATOR IS WHISKEY TANGO FOXTROX (@whiskey21872240)**
+PLEASE READ:
+    1. The purpose of this application is to allow you to email all of your state representives at once.
+       This includes House and Senate representatives.
+    2. Information gathered from this tool is parsed from https://services.statescape.com/
+       I collected the data, and created custom variables and delimitation strings in order to
+       make searching for your state representatives easier for you.
+
+
+
+
 *** HOW TO USE ***
 
 1. Download the SRCS.ps1 file to your desktop
