@@ -2,7 +2,7 @@
 ***STATE REPRESENTATIVE CONTACT SYSTEM***
 ______________________________________________________________
 AUTHOR: Whiskey Tango Foxtrot
-TWITTER: @whiskey21872240
+TWITTER: @___WTF_______
 EMAIL: TheWTFExperience@outlook.com
 ______________________________________________________________
     DISCLAIMER: Under no circumstances are you to use this tool for ANY malicious purposes.
