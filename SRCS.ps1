@@ -28,7 +28,7 @@ Write-Host
 write-host "***STATE REPRESENTATIVE CONTACT SYSTEM***"
 write-host "______________________________________________________________"
 write-host "AUTHOR: Whiskey Tango Foxtrot"
-write-host "TWITTER: @whiskey21872240"
+write-host "TWITTER: @___WTF_______"
 write-host "EMAIL: TheWTFExperience@outlook.com"
 write-host "______________________________________________________________"
 write-host ""
